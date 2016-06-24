@@ -31,8 +31,10 @@
     - 사용자 DB , WORD-PREDICTIONARY 지원.<BR>
     - 2벌식 자판(쿼티)<BR>
     
-    한글 키보드 사용 대모 영상<BR>
-    https://www.youtube.com/watch?v=-O1BHlm29l0
+    
+  한글 키보드 사용 대모 영상<BR>
+    
+  https://www.youtube.com/watch?v=-O1BHlm29l0
     
   
   
