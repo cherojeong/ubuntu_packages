@@ -25,7 +25,12 @@
   $cd ubuntu-keyboard-ko-ota11<BR>
   $sudo apt-get install hunspell-ko<BR>
   $sudo dpkg -i *.deb<BR>
- 
+  
+  이후 단말 제부팅 또는 단말에서 <br>
+  
+  $sudo shutdown -r now<BR> 
+  
+  
   우분투 시스템 설정 메뉴에서 한글 키보드 설정 후 사용가능<BR>
     - 한글 맞춤법 검사.<BR>
     - 사용자 DB , WORD-PREDICTIONARY 지원.<BR>
