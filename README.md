@@ -21,8 +21,10 @@
 
   $cd Downloads<BR>
   $wget https://github.com/cherojeong/ubuntu_packages/blob/master/ubuntu-keyboard-ko/ubuntu-keyboard-ko-ota11.tar.gz<BR>
+  
   $tar zvxf ubuntu-keyboard-ko-ota11.tar.gz<BR>
   $cd ubuntu-keyboard-ko-ota11<BR>
+  $sudo apt-get update<BR>
   $sudo apt-get install hunspell-ko<BR>
   $sudo dpkg -i *.deb<BR>
   
