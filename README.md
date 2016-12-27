@@ -6,7 +6,7 @@
   - 한글 키보드(korean-layout)가 추가된 ubuntu-keyboard packages
   - autopilot / test package는 제거한 압축파일
   - ubuntu-touch ota 버전에 따른  prebuilt packages(for armhf)
-  - BQ / MEIZU / NEXUS PHONE에서 검증 됨.
+  - BQ / MEIZU / NEXUS PHONE에서 검증 됨.(MX5P에서 OTA12도 확인됨. OTA11에 설치했더라도 펌업시 재설치필요)
 
 # 우분투 터치 한글 키보드(ubuntu-keyboard-ko) 설치 방법 (ex - OTA11 설치)
   adb shell or phone teminal app in ubuntu phone을 이용해서 하기 경로의 파일을 download한다.
